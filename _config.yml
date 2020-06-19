@@ -1,19 +1,19 @@
 # Site settings
-title: Emping
-email: your-email@domain.com
+title: Jerry's github blog
+email: kskyung0624@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Let's Eat!!.
+  My coding diary :)
 baseurl: "" # the subpath of your site, e.g. /newpath-for-emping
-url: "http://example.com" # the base hostname & protocol for your site
+url: "http://JerryK026.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 GoogleAnalytics: UA-xxxxxx-x
 
 twitter:
-  username: rmsubekti
+  username: 
 facebook:
-  app_id: 1234567
-  publisher: 1234567
+  app_id: 
+  publisher: 
 
 sass:
     style: compressed
